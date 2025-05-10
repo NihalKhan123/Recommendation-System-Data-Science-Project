@@ -1,2 +1,2 @@
-# music-recommendation-app-python
+# music-recommendation
 🎵 Lyrics-Based Music Recommendation System A content-based music recommender built using TF-IDF and cosine similarity on song lyrics. Built with Python and Streamlit for fast, interactive song suggestions.
